@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c39bef5f5381f097f144328555c83e2919ddd8f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b77705ad6a7d743fbd3655b540c24a68e618c48f">
+        <dex dex="E:\cw\ad_chuanshanjia\Demo_cwsdk_tt\app\build\intermediates\pre-dexed\debug\classes_31bc7cbeeee9e10f89ace791c5af7aa958665b13.jar" />
+    </item>
+
+</items>

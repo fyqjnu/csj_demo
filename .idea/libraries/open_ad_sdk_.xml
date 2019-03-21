@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="open_ad_sdk-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef/output/jars/libs/openadsdk.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
